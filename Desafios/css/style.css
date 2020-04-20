@@ -1,10 +1,3 @@
-nav{
-    background-color: #8756d1 !important;
-}
-.d-block{
-    
-    border: solid #fff 0.5px;
-}
 
 .botton1{   
     padding-left: 6em;
@@ -61,6 +54,9 @@ h1{
 .p2{
     margin-top: -3em !important;
     height: 10em !important;
+}
+pre{
+    background-color: #fff;
 }
 rd{
     color: red;
