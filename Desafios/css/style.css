@@ -1,0 +1,91 @@
+nav{
+    background-color: #8756d1 !important;
+}
+.d-block{
+    
+    border: solid #fff 0.5px;
+}
+
+.botton1{   
+    padding-left: 6em;
+    padding-right: 6em;
+    color: #8756d1;
+    border: solid 1px #8756d1;
+}
+.botton2asse {
+    padding-left: 7em;
+    padding-right: 7em;
+}
+.botton2{
+    padding: 0;
+    border-style: none;
+    background-color:rgba(0, 0, 0, 0);
+    margin: 0;
+    padding: 0;
+}
+.bgr{
+    padding: 0;
+    border-style: none;
+    background-color:rgba(0, 0, 0, 0);
+    margin: 0;
+    padding: 0;
+    
+}
+.bgr:hover .botton1{
+    color: #fff;
+    background-color: #8756d1;
+}
+.px5{
+    padding-left: 6em;
+    padding-right: 6em;
+}
+h1{
+    color: #8756d1;
+}
+.hd{
+    font-size: 20px;
+    font-weight: 300;
+}
+.card{
+    background-color: #f8f9fa;
+}
+.card pre{
+    overflow-y: hidden;
+    height: 6em !important;
+}
+.card pre p{
+    padding: 0;
+    margin: 0;
+    margin-left: -6em !important;
+}
+.p2{
+    margin-top: -3em !important;
+    height: 10em !important;
+}
+rd{
+    color: red;
+}
+bl{
+    color: blue;
+}
+footer{
+    background-color: #f2f2f2;
+}
+footer p{
+    justify-content: center;
+   
+}
+footer p a{
+    color: #000;
+}
+footer ul{
+    list-style: none;
+}
+footer  ul li{
+    float: left;
+}
+footer ul li a{
+    text-decoration: none;
+    color: #000 ;
+    font-weight: 500;    
+}
