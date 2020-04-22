@@ -1,4 +1,31 @@
 
+ul li ul{
+    display: noe
+}
+ul li:hover  ul{
+        display: block;
+        position: fixe;
+}
+.nav-bg{
+    background-color: rgb(86, 61, 124);
+}
+.scroll{
+    overflow: scroll;
+
+}
+::-webkit-scrollbar {
+    width: 0px;
+    padding:0px;
+}
+
+
+ul li a.nav-link{
+    font-weight: 500;
+    color: #ffffee !important;
+}
+.border{
+    color: #fff;
+}
 .botton1{   
     padding-left: 6em;
     padding-right: 6em;
@@ -21,7 +48,6 @@
     border-style: none;
     background-color:rgba(0, 0, 0, 0);
     margin: 0;
-    padding: 0;
     
 }
 .bgr:hover .botton1{
